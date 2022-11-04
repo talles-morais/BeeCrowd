@@ -1,2 +1,2 @@
 # BeeCrowd/Marathon
- Algorithms made studying for the programming marathon
+ Beecrowd challenges as a study plan to programming marathon.
